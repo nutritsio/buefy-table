@@ -1,4 +1,4 @@
-# de_logs
+# Table with Sort and Filter. Vuex. Buefy.
 
 ## Project setup
 ```
