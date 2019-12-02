@@ -1,4 +1,4 @@
-# Table with Sort and Filter. Vuex. Buefy.
+# Table with Sort, Filter and Pagination. Vuex. Buefy.
 
 ## Project setup
 ```
